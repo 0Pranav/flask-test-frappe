@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+
+{% block title %} Index {% endblock %}
+
+{% block body %}
+<div class="container">
+    <h2 class="text-center mt-3">Frappe Flask Test</h2>
+    <div class="row">
+        <a href="/products" class="btn btn-primary col m-3">Products</a>
+        <a href="/locations" class="btn btn-primary col m-3">Locations</a>
+        <a href="/movements" class="btn btn-primary col m-3">Movements</a>
+    </div>
+    <div class="row justify-content-center">
+        <a href="/report" class="btn btn-primary col-8">Report</a>
+    </div>
+</div>
+{% endblock %}
