@@ -1,6 +1,7 @@
 # Inventory management web application
 
-Based on the specifications, as gived [here](https://frappe.io/flask-test)
+Based on the specifications, as given [here](https://frappe.io/flask-test)
+
 Below are screenshots of the application
 
 ## Index
